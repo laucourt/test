@@ -6,3 +6,5 @@ pour des tests
 
 
 modif1
+
+modif locales
